@@ -1,2 +1,2 @@
 # adopt-me
-Learning React with Brian Holt
+Learning React with Brian Holt from Frontend Masters
